@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <h3>Hi there 👋</h3>
   <p align="center">
     <a target="_blank" href="https://stackoverflow.com/users/2418529/nico">Stack Overflow</a> •
-    <a target="_blank" href="https://www.linkedin.com/in/nicol%C3%B2-cozzani-87096411b/">LinkedIn</a> •
+    <a target="_blank" href="https://www.linkedin.com/in/nicol%C3%B2-cozzani-87096411b/">LinkedIn</a> 
   </p>
   <br />
   <br />
