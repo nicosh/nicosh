@@ -8,8 +8,16 @@
   <br />
   <br />
   <br />
+  <a href="https://github-readme-stats.vercel.app/api?username=nicosh&show_icons=true&line_height=45&theme=dracula&include_all_commits=true&count_private=true">
   <img src="https://github-readme-stats.vercel.app/api?username=nicosh&show_icons=true&line_height=45&theme=dracula&include_all_commits=true&count_private=true" />
+</a>
+<a href="https://github-readme-stackoverflow.vercel.app/?userID=2418529&theme=dark">
   <img src="https://github-readme-stackoverflow.vercel.app/?userID=2418529&theme=dark" />
+</a>
+  
+ 
+
+  
   <br />
   <br />
   <br />
